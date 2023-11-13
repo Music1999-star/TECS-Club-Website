@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Project Showcase</title>
+    <link href="style.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <div class="main">
+            <main>
+                <h1>Project Showcase</h1>
+                <p>Essex County College Tech Club</p>
+                <section>
+                    <h2>Current Projects</h2>
+                    <ul>
+                        <li>TECS Website CS Division</li>
+                        <li>Concret Canon CE Division</li>
+                        <li>RC Car ME/EE Division</li>
+                    </ul>
+                </section>
+                 <section>
+                    <h3>Past Projects</h3>
+                    <ul>
+                        <li>RC Car ME/EE Division</li>
+                    </ul>
+                </section>
+            </main>
+        </div>
+    </body>  
+</html>
